@@ -2,6 +2,11 @@
   [
     ["Sobre mi","about_me"],
     "article_about_me",
-    ["sd","sd"]
+    [["Tema 1","article_tema_1"],["Tema 2","article_tema_2"]]
+  ],
+  [
+    ["Otros","otros"],
+    "article_otros",
+    [["Otros 1","article_otros_1"],["Tema 2","article_otros_2"]]
   ]
 ]
