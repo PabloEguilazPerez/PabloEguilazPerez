@@ -1,6 +1,9 @@
 [
   [
-    ["Sobre mi","about_me"],
+    [
+      "Sobre mi",
+      "about_me"
+    ],
     "article_about_me",
     [
       [
@@ -14,7 +17,10 @@
     ]
   ],
   [
-    ["Otros","otros"],
+    [
+      "Otros",
+      "otros"
+    ],
     "article_otros",
     [
       [
