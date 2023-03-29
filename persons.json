@@ -1,6 +1,16 @@
 [
   {
-    "name": "Pablo Eguilaz Perez",
+    "name": "Pablo",
+    "email":"pabloeguilazperez@gmail.com",
+    "country":"Spain"
+  },
+  {
+    "name": "Javier",
+    "email":"pabloeguilazperez@gmail.com",
+    "country":"Spain"
+  },
+  {
+    "name": "Jose",
     "email":"pabloeguilazperez@gmail.com",
     "country":"Spain"
   }
