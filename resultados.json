@@ -1,1 +1,174 @@
-[{"id":1,"local":"Equipo 1","visitante":"Equipo 2","resultado":"1-3","localGoles":4,"visitanteGoles":3},{"id":2,"local":"Equipo 2","visitante":"Equipo 1","resultado":"1-3","localGoles":4,"visitanteGoles":4},{"id":1,"local":"Equipo 1","visitante":"Equipo 2","resultado":"1-3","localGoles":4,"visitanteGoles":5},{"id":2,"local":"Equipo 2","visitante":"Equipo 1","resultado":"1-3","localGoles":4,"visitanteGoles":4},{"id":1,"local":"Equipo 1","visitante":"Equipo 2","resultado":"1-3","localGoles":4,"visitanteGoles":3},{"id":2,"local":"Equipo 2","visitante":"Equipo 1","resultado":"1-3","localGoles":4,"visitanteGoles":4},{"id":1,"local":"Equipo 1","visitante":"Equipo 2","resultado":"1-3","localGoles":4,"visitanteGoles":5},{"id":2,"local":"Equipo 2","visitante":"Equipo 1","resultado":"1-3","localGoles":4,"visitanteGoles":4},{"id":2,"local":"Equipo 2","visitante":"Equipo 1","resultado":"1-3","localGoles":4,"visitanteGoles":4}]
+[
+   {
+      "id":1,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":3,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":2,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":3,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":5,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":4,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":5,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":3
+   },
+   {
+      "id":6,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":7,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":5,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":8,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4
+   },
+   {
+      "id":9,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":01,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":3,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":11,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":12,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":5,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":13,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":14,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":3
+   },
+   {
+      "id":15,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":16,
+      "local":"Equipo 1",
+      "visitante":"Equipo 2",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":5,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   },
+   {
+      "id":17,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4
+   },
+   {
+      "id":18,
+      "local":"Equipo 2",
+      "visitante":"Equipo 1",
+      "resultado":"1-3",
+      "localGoles":4,
+      "visitanteGoles":4,
+      "temporada":"2023-2024",
+      "fecha":"2022-12-20"
+   }
+]
