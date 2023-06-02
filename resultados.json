@@ -9,7 +9,8 @@
             "resultado":"",
             "localGoles":0,
             "visitanteGoles":0,
-            "fecha":"2024-12-20"
+            "fecha":"2024-12-20",
+            "estado":"Finalizado"
          },
          {
             "id":2,
@@ -18,7 +19,8 @@
             "resultado":"4-3",
             "localGoles":4,
             "visitanteGoles":3,
-            "fecha":"2022-12-21"
+            "fecha":"2022-12-21",
+            "estado":"En Juego"
          },
           {
             "id":3,
