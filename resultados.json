@@ -19,6 +19,60 @@
             "localGoles":4,
             "visitanteGoles":3,
             "fecha":"2022-12-21"
+         },
+          {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"1-3",
+            "localGoles":1,
+            "visitanteGoles":3,
+            "fecha":"2022-12-20"
+         },
+         {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"4-3",
+            "localGoles":4,
+            "visitanteGoles":3,
+            "fecha":"2022-12-21"
+         },
+          {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"1-3",
+            "localGoles":1,
+            "visitanteGoles":3,
+            "fecha":"2022-12-20"
+         },
+         {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"4-3",
+            "localGoles":4,
+            "visitanteGoles":3,
+            "fecha":"2022-12-21"
+         },
+          {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"1-3",
+            "localGoles":1,
+            "visitanteGoles":3,
+            "fecha":"2022-12-20"
+         },
+         {
+            "id":1,
+            "local":"Equipo 1",
+            "visitante":"Equipo 2",
+            "resultado":"4-3",
+            "localGoles":4,
+            "visitanteGoles":3,
+            "fecha":"2022-12-21"
          }
       ]
    },
