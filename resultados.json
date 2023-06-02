@@ -29,7 +29,8 @@
             "resultado":"1-3",
             "localGoles":1,
             "visitanteGoles":3,
-            "fecha":"2022-12-20"
+            "fecha":"2022-12-20",
+            "estado":"No Jugado"
          },
          {
             "id":4,
