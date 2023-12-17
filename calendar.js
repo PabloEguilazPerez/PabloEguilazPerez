@@ -54,7 +54,7 @@ function crearCuerpo(date) {
         const objetosFiltrados = encontrarPorFecha(calendario.eventos, fechaDia);
         var tasks = []
         for (let a = 0; a < objetosFiltrados.length; a++) {
-            tasks += `<a href="${objetosFiltrados[a].url}"><div class="px-2 py-1 rounded-lg mt-1 overflow-hidden border border-[${objetosFiltrados[a].color}33] text-[${objetosFiltrados[a].color}CC] [${objetosFiltrados[a].color}1A]">
+            tasks += `<a href="${objetosFiltrados[a].url}"><div class="px-2 py-1 rounded-lg mt-1 overflow-hidden border border-[${objetosFiltrados[a].color}] text-[${objetosFiltrados[a].color}] bg-[${objetosFiltrados[a].color}40]">
             <p class="text-sm truncate leading-tight">${objetosFiltrados[a].title}</p>
         </div></a>`
         }
