@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body class="bg-red-200 p-[20px]">
+    <div id="calendar"></div>
+    <script>
+
+        const dias = ['Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab', 'Dom'];
+        const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio','Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
+
+        const calendario = {
+            divId: 'calendar',
+            dias: dias,
+            meses: meses,
+            eventos: [
+                {
+                    date: new Date(),
+                    title: "Titulo",
+                    color: "#ff00ff",
+                    url: "https://web.pabloeguilaz.es/?view=task&id=2"
+                },
+                {
+                    date: new Date(),
+                    title: "sdoiu",
+                    color: "#FF0000",
+                    url: "https://web.pabloeguilaz.es/?view=task&id=2"
+                }
+            ],
+            config: {
+                showMonths: true,
+                showDays: true,
+                bgColor: '#fff',
+                cornerRadius: 8 //px
+            }
+        }
+
+    </script>
+    <script src="./calendar.js"></script>
+</body>
+</html>
