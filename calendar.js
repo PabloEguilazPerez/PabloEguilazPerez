@@ -126,15 +126,11 @@ function siguienteMes() {
 }
 
 function obtenerDiasDelMes(mes, año) {
-    // El mes en JavaScript se cuenta desde 0 (enero) hasta 11 (diciembre)
-    // Por lo tanto, se resta 1 al mes proporcionado para obtener el mes correcto en JavaScript
     var fecha = new Date(año, mes - 1, 1); // Establece la fecha al primer día del mes dado
   
-    // Avanzamos al primer día del mes siguiente y retrocedemos un día para obtener el último día del mes dado
     fecha.setMonth(fecha.getMonth() + 1);
     fecha.setDate(fecha.getDate() - 1);
   
-    // El número de días del mes es el día actual de la fecha
     var diasEnMes = fecha.getDate();
     return diasEnMes;
 }
@@ -145,9 +141,9 @@ function encontrarPorFecha(array, fecha) {
 
     for (let i = 0; i < array.length; i++) {
         if (`${fecha.getFullYear()}-${fecha.getMonth() + 1}-${fecha.getDate()}` === `${array[i].date.getFullYear()}-${array[i].date.getMonth() + 1}-${array[i].date.getDate()}`) {
-            obs.push(array[i]); // Devolver el primer objeto que coincide
+            obs.push(array[i]);
         }
     }
-    return obs; // Si no se encuentra ningún objeto, devolver null o manejar el caso según necesites
+    return obs; 
 }
   
