@@ -1,7 +1,5 @@
 const calendar = document.getElementById(calendario.divId)
 
-console.log(calendar)
-
 calendar.classList.add(`bg-[${calendario.config.bgColor}]`)
 calendar.classList.add(`rounded-[${calendario.config.cornerRadius}px]`)
 
@@ -15,7 +13,17 @@ function crearBarraSuperior(date) {
             <span class="text-lg font-bold text-gray-800">${calendario.meses[date.getMonth()]}</span>
             <span class="ml-1 text-lg text-gray-600 font-normal">${date.getFullYear()}</span>
         </div>
-        <div class="border rounded-lg px-1" style="padding-top: 2px;">
+        <div class="w-full">
+        </div>
+        <div class="px-1 w-[220px] mr-[20px]" style="padding-top: 2px;">
+            <select id="calendario-time" class="text-gray-900 text-sm border rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                <option value="año">Año</option>
+                <option value="mes" selected>Mes</option>
+                <option value="semana">Semana</option>
+                <option value="dia">Dia</option>
+            </select>
+        </div>
+        <div class="border rounded-lg px-1 min-w-[90px]" style="padding-top: 2px;">
             <button type="button" onClick="anteriorMes()" class="leading-none rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center">
                 <svg class="h-6 w-6 text-gray-500 inline-flex leading-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
@@ -30,11 +38,12 @@ function crearBarraSuperior(date) {
         </div>
     </div>`
 
-    crearCuerpo(date)
+
+    crearCuerpoMes(date)
     
 }
 
-function crearCuerpo(date) {
+function crearCuerpoMes(date) {
 
     var fecha = new Date(`${date.getFullYear()}-${date.getMonth() + 1}-01`);
     var diaSemana = fecha.getDay();
@@ -51,6 +60,7 @@ function crearCuerpo(date) {
     var fechaDia = new Date(date.getFullYear(), date.getMonth(), 1)
 
     for (let i = 0; i < obtenerDiasDelMes(date.getFullYear(), date.getMonth()); i++) {
+        fechaDia.setDate(i + 1)
         const objetosFiltrados = encontrarPorFecha(calendario.eventos, fechaDia);
         var tasks = []
         for (let a = 0; a < objetosFiltrados.length; a++) {
@@ -62,7 +72,6 @@ function crearCuerpo(date) {
             <div onClick="showEventModal(${fechaDia})" class="inline-flex w-6 h-6 items-center justify-center cursor-pointer text-center leading-none rounded-full transition ease-in-out duration-100 text-gray-700 hover:bg-blue-200">${i+1}</div>
             ${tasks}
         </div>`
-        fechaDia.setDate(i + 1)
     }
 
     for (let i = 7; i > fechaDia.getDay() + 1; i--) {
@@ -146,4 +155,9 @@ function encontrarPorFecha(array, fecha) {
     }
     return obs; 
 }
+
+function handleResize() {
+    console.log(calendar.clientWidth)
+}
   
+calendar.addEventListener('resize', handleResize);
