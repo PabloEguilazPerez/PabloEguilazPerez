@@ -43,6 +43,10 @@ function crearBarraSuperior(date) {
     
 }
 
+function crearCuerpoSemana() {
+    
+}
+
 function crearCuerpoMes(date) {
 
     var fecha = new Date(`${date.getFullYear()}-${date.getMonth() + 1}-01`);
