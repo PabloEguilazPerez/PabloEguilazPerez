@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "title": "Desarrollador App Móviles",
+    "place": "IES Doctor Fleming",
+    "interval": "2022 - Actualidad",
+    "short_description": "Desarrollo de aplicaciones móviles con Java, Angular, Ionic, Firebase, Swift, Kotlin, Flutter, React Native, etc.",
+    "languages": [
+        "Java",
+        "Angular",
+        "HTML5",
+        "Css",
+        "JS",
+        "IntelliJ IDEA",
+        "VS Code"
+    ]
+}

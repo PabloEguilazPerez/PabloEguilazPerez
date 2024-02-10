@@ -1,0 +1,17 @@
+{
+    "id": 2,
+    "title": "Piedra, papel o tijera",
+    "datetime": "Enero 20, 2024",
+    "description": "Añadido el juego de piedra, papel o tijera al proyecto",
+    "version": "V1.0.1",
+    "changes": [
+        {
+            "type": "Improved",
+            "content": "Añadido el juego de piedra, papel o tijera al proyecto"
+        },
+        {
+            "type": "Fixed",
+            "content": "Corregido el error que no permitia usar la navBar en la vista movil"
+        }
+    ]
+}

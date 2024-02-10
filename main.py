@@ -2,40 +2,42 @@ import os
 import json
 import shutil
 
-# Ruta del archivo JSON local
-json_file = "tools.json"
+# Definir los nombres de los archivos JSON y sus datos
+json_files_data = [
+    ("tools.json", "tools"),
+    ("changelog.json", "changelog"),
+    ("resume.json", "resume")
+]
 
-# Carga el JSON desde el archivo local
-with open(json_file, 'r') as f:
-    data = json.load(f)
+# Iterar sobre los archivos JSON
+for json_file, folder_name in json_files_data:
+    # Cargar el JSON desde el archivo local
+    with open(json_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-# Ruta de la carpeta 'tools'
-tools_folder = 'tools'
+    # Ruta de la carpeta
+    folder_path = folder_name
 
-# Elimina el contenido de la carpeta 'tools' si existe
-if os.path.exists(tools_folder):
-    shutil.rmtree(tools_folder)
+    # Elimina el contenido de la carpeta si existe
+    if os.path.exists(folder_path):
+        shutil.rmtree(folder_path)
 
-# Crea una carpeta 'tools'
-os.makedirs(tools_folder)
+    # Crea la carpeta si no existe
+    os.makedirs(folder_path)
 
-# Itera sobre los datos obtenidos
-for item in data:
-    tool_id = str(item['id'])
-    tool_name = item['name']
-    tool_icon = item['icon']
+    # Iterar sobre los datos obtenidos
+    for item in data:
+        item_id = str(item['id'])
 
-    # Crea la carpeta de la herramienta
-    tool_folder = os.path.join(tools_folder, tool_id)
-    os.makedirs(tool_folder)
+        # Crear un directorio para cada item
+        item_folder = os.path.join(folder_path, item_id)
+        os.makedirs(item_folder)
 
-    # Crea el archivo index.json
-    index_data = {
-        "id": item['id'],
-        "name": item['name'],
-        "icon": item['icon']
-    }
-    with open(os.path.join(tool_folder, 'index.json'), 'w') as f:
-        json.dump(index_data, f, indent=4)
+        # Guardar los datos del item en un archivo JSON dentro de su carpeta correspondiente
+        with open(os.path.join(item_folder, 'index.json'), 'w', encoding='utf-8') as f:
+            json.dump(item, f, indent=4, ensure_ascii=False)
 
 print("¡Carpetas y archivos creados exitosamente!")
+
+
+

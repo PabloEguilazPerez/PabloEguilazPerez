@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "title": "Creacion del proyecto",
+    "datetime": "Enero 14, 2024",
+    "description": "Creacion del proyecto para la asignatura de Desarrollo de Aplicaciones Multiplataforma",
+    "version": "V1.0.0",
+    "changes": [
+        {
+            "type": "Create",
+            "content": "Añadido el proyecto a github`"
+        }
+    ]
+}
