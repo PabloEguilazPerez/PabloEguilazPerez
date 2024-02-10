@@ -7,18 +7,18 @@
        "changes":[
           {
              "type":"Improved",
-             "content":"`Añadido el juego de piedra, papel o tijera al proyecto`"
+             "content":"Añadido el juego de piedra, papel o tijera al proyecto"
           },
           {
              "type":"Fixed",
-             "content":"`Corregido el error que no permitia usar la navBar en la vista movil`"
+             "content":"Corregido el error que no permitia usar la navBar en la vista movil"
           }
        ]
     },
     {
        "title":"Creacion del proyecto",
        "datetime":"Enero 14, 2024",
-       "description":"`Creacion del proyecto para la asignatura de Desarrollo de Aplicaciones Multiplataforma`",
+       "description":"Creacion del proyecto para la asignatura de Desarrollo de Aplicaciones Multiplataforma",
        "version":"V1.0.0",
        "changes":[
           {
