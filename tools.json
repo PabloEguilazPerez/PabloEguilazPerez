@@ -2,76 +2,76 @@
     {
         "id": 1,
         "name": "Java",
-        "icon": "icons/java.svg"  
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/java.svg"  
     },
     {
         "id": 2,
         "name": "Angular",
-        "icon": "icons/angular.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/angular.svg"
     },
     {
         "id": 3,
         "name": "HTML5",
-        "icon": "icons/html_5.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/html_5.svg"
     },
     {
         "id": 4,
         "name": "JS",
-        "icon": "icons/js.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/js.svg"
     },
     {
         "id": 5,
         "name": "PHP",
-        "icon": "icons/php.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/php.svg"
     },
     {
         "id": 6,
         "name": "Python",
-        "icon": "icons/python.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/python.svg"
     },
     {
         "id": 7,
         "name": "Swift",
-        "icon": "icons/swift.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/swift.svg"
     },
     {
         "id": 8,
         "name": "Css",
-        "icon": "icons/css_3.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/css_3.svg"
     },
     {
         "id": 9,
         "name": "React",
-        "icon": "icons/react.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/react.svg"
     },
     {
         "id": 10,
         "name": "VS Code",
-        "icon": "icons/vs_code.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/vs_code.svg"
     },
     {
         "id": 11,
         "name": "IntelliJ IDEA",
-        "icon": "icons/jb_IntelliJ_IDEA.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/jb_IntelliJ_IDEA.svg"
     },
     {
         "id": 12,
         "name": "Pycharm",
-        "icon": "icons/jb_pycharm.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/jb_pycharm.svg"
     },
     {
         "id": 13,
         "name": "NodeJs",
-        "icon": "icons/node_js.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/node_js.svg"
     },
     {
         "id": 14,
         "name": "NPM",
-        "icon": "icons/npm.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/npm.svg"
     },
     {
         "id": 15,
         "name": "Xcode",
-        "icon": "icons/xcode.svg"
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/xcode.svg"
     }
 ]
