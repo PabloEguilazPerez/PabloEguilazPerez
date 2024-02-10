@@ -2,7 +2,7 @@
     {
        "title":"Piedra, papel o tijera",
        "datetime":"December 20, 2024",
-       "description":"`Añadido el juego de piedra, papel o tijera al proyecto`",
+       "description":"Añadido el juego de piedra, papel o tijera al proyecto",
        "version":"V1.0.1",
        "changes":[
           {
