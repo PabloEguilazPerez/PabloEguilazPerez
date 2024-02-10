@@ -5,12 +5,12 @@
     "interval": "2022 - Actualidad",
     "short_description": "Desarrollo de aplicaciones móviles con Java, Angular, Ionic, Firebase, Swift, Kotlin, Flutter, React Native, etc.",
     "languages": [
-        "Java",
-        "Angular",
-        "HTML5",
-        "Css",
-        "JS",
-        "IntelliJ IDEA",
-        "VS Code"
+        1,
+        7,
+        3,
+        8,
+        4,
+        11,
+        10
     ]
 }

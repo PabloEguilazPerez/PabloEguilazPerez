@@ -5,10 +5,10 @@
     "interval": "2022 - Actualidad",
     "short_description": "Desarrollo de API REST con Java, Node.js, Express, etc.",
     "languages": [
-        "Java",
-        "Swift",
-        "Angular",
-        "IntelliJ IDEA",
-        "VS Code"
+        1,
+        7,
+        2,
+        11,
+        10
     ]
 }
