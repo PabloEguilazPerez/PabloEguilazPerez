@@ -1,30 +1,32 @@
 [
-    {
-       "title":"Piedra, papel o tijera",
-       "datetime":"Enero 20, 2024",
-       "description":"Añadido el juego de piedra, papel o tijera al proyecto",
-       "version":"V1.0.1",
-       "changes":[
-          {
-             "type":"Improved",
-             "content":"Añadido el juego de piedra, papel o tijera al proyecto"
-          },
-          {
-             "type":"Fixed",
-             "content":"Corregido el error que no permitia usar la navBar en la vista movil"
-          }
-       ]
+   {
+      "id": 2,
+      "title":"Piedra, papel o tijera",
+      "datetime":"Enero 20, 2024",
+      "description":"Añadido el juego de piedra, papel o tijera al proyecto",
+      "version":"V1.0.1",
+      "changes":[
+         {
+            "type":"Improved",
+            "content":"Añadido el juego de piedra, papel o tijera al proyecto"
+         },
+         {
+            "type":"Fixed",
+            "content":"Corregido el error que no permitia usar la navBar en la vista movil"
+         }
+      ]
     },
     {
-       "title":"Creacion del proyecto",
-       "datetime":"Enero 14, 2024",
-       "description":"Creacion del proyecto para la asignatura de Desarrollo de Aplicaciones Multiplataforma",
-       "version":"V1.0.0",
-       "changes":[
-          {
-             "type":"Create",
-             "content":"`Añadido el proyecto a github`"
-          }
-       ]
-    }
- ]
+      "id": 1,
+      "title":"Creacion del proyecto",
+      "datetime":"Enero 14, 2024",
+      "description":"Creacion del proyecto para la asignatura de Desarrollo de Aplicaciones Multiplataforma",
+      "version":"V1.0.0",
+      "changes":[
+         {
+            "type":"Create",
+            "content":"Añadido el proyecto a github`"
+         }
+      ]
+   }
+]
