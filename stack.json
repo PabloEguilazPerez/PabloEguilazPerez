@@ -1,18 +1,18 @@
 [
    {
       "name":"Front-end",
-      "languages":[1]
+      "languages":[2,3,4,7,8,9, 20]
    },
    {
       "name":"Back-end",
-      "languages":[1]
+      "languages":[1,5,6,13,14]
    },
    {
       "name":"Bases de datos",
-      "languages":[1]
+      "languages":[16,17,18,19]
    },
    {
       "name":"IDEs",
-      "languages":[1]
+      "languages":[10,11,12,15]
    }
 ]

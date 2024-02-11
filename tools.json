@@ -73,5 +73,35 @@
         "id": 15,
         "name": "Xcode",
         "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/xcode.svg"
+    },
+    {
+        "id": 16,
+        "name": "Firebase",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/firebase.svg"
+    },
+    {
+        "id": 17,
+        "name": "MariaDB",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/mariadb.svg"
+    },
+    {
+        "id": 18,
+        "name": "MongoDB",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/mongodb.svg"
+    },
+    {
+        "id": 19,
+        "name": "MySQL",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/mysql.svg"
+    },
+    {
+        "id": 20,
+        "name": "TS",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/ts.svg"
+    },
+    {
+        "id": 21,
+        "name": "Tailwindcss",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/tailwindcss.svg"
     }
 ]
