@@ -1,5 +1,22 @@
 [
    {
+      "id": 3,
+      "title":"Informacion de la aplicacion",
+      "datetime":"Febrero 11, 2024",
+      "description":"Añadida Vista de informacion de la aplicacion",
+      "version":"V1.0.2",
+      "changes":[
+         {
+            "type":"Improved",
+            "content":"Añadida Vista de informacion de la aplicacion"
+         },
+         {
+            "type":"Fixed",
+            "content":"Iconos de la vista de desarrollador"
+         }
+      ]
+   },
+   {
       "id": 2,
       "title":"Piedra, papel o tijera",
       "datetime":"Enero 20, 2024",
