@@ -13,5 +13,7 @@
             "type": "Fixed",
             "content": "Corregido el error que no permitia usar la navBar en la vista movil"
         }
-    ]
+    ],
+    "images": [],
+    "files": []
 }

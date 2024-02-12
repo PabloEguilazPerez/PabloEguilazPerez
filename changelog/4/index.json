@@ -19,11 +19,11 @@
     "files": [
         {
             "name": "index.js",
-            "tipo": 1
+            "tipo": 4
         },
         {
             "name": "index.css",
-            "tipo": 2
+            "tipo": 8
         },
         {
             "name": "index.html",
