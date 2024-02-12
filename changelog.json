@@ -10,6 +10,23 @@
             "type":"Improved",
             "content":"Añadida Vista de informacion de la aplicacion"
          }
+      ],
+      "images": [
+         {
+            "src": "https://tailwindcss.com/_next/static/media/catalyst-installation.fcfdb479.jpg",
+            "alt": "Imagen"
+         }
+      ],
+      "files": [
+         {
+            "name": "index.js"
+         },
+         {
+            "name": "index.css"
+         },
+         {
+            "name": "index.html"
+         }
       ]
    },
    {
