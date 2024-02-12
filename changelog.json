@@ -19,13 +19,16 @@
       ],
       "files": [
          {
-            "name": "index.js"
+            "name": "index.js",
+            "tipo": 1
          },
          {
-            "name": "index.css"
+            "name": "index.css",
+            "tipo": 2
          },
          {
-            "name": "index.html"
+            "name": "index.html",
+            "tipo": 3
          }
       ]
    },
