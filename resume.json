@@ -3,7 +3,7 @@
         "id": 3,
         "title": "Practicas en empresa",
         "place": "Empresa nº1",
-        "interval": "2022 - Actualidad",
+        "interval": "2024 - Actualidad",
         "short_description": "Desarrollo de API REST con Java, Node.js, Express, etc.",
         "languages": [1, 7, 2, 11, 10]
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Desarrollador App Móviles",
         "place": "IES Doctor Fleming",
-        "interval": "2022 - Actualidad",
+        "interval": "2022 - 2024",
         "short_description": "Desarrollo de aplicaciones móviles con Java, Angular, Ionic, Firebase, Swift, Kotlin, Flutter, React Native, etc.",
         "languages": [1, 7, 3, 8, 4, 11, 10, 17, 18, 19]
     },
