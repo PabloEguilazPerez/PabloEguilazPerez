@@ -2,6 +2,7 @@
     {
         "type": "contador",
         "text": "Siguiente envento",
-        "dead_line": "2025-12-31T00:00:00Z"
+        "dead_line": "2025-12-31T00:00:00Z",
+        "image_src": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
     }
 ]
