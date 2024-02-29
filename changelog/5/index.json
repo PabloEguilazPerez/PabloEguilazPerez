@@ -1,0 +1,41 @@
+{
+    "id": 5,
+    "title": "Login",
+    "datetime": "Febrero 29, 2024",
+    "description": "Añadido login a la aplicacion",
+    "version": "V1.1.0",
+    "changes": [
+        {
+            "type": "Improved",
+            "content": "Añadido Login a la aplicacion"
+        },
+        {
+            "type": "Modified",
+            "content": "Añadido contador a Inicio"
+        },
+        {
+            "type": "Fixed",
+            "content": "Corregido error modo oscuro en algunos componentes"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://tailwindcss.com/_next/static/media/catalyst-installation.fcfdb479.jpg",
+            "alt": "Imagen"
+        }
+    ],
+    "files": [
+        {
+            "name": "inicio.ts",
+            "tipo": 20
+        },
+        {
+            "name": "inicio.html",
+            "tipo": 3
+        },
+        {
+            "name": "login.html",
+            "tipo": 3
+        }
+    ]
+}

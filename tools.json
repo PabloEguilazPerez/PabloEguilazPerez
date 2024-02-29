@@ -103,5 +103,45 @@
         "id": 21,
         "name": "Tailwindcss",
         "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/tailwindcss.svg"
+    },
+    {
+        "id": 22,
+        "name": "Apple",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/apple.svg"
+    },
+    {
+        "id": 23,
+        "name": "Docker",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/docker.svg"
+    },
+    {
+        "id": 24,
+        "name": "Git",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/git.svg"
+    },
+    {
+        "id": 25,
+        "name": "GitHub",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/github.svg"
+    },
+    {
+        "id": 26,
+        "name": "Postman",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/postman.svg"
+    },
+    {
+        "id": 27,
+        "name": "ProgresSQL",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/progresSQL.svg"
+    },
+    {
+        "id": 28,
+        "name": "Apple",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/apple.svg"
+    },
+    {
+        "id": 29,
+        "name": "Slack",
+        "icon": "https://pabloeguilazperez.github.io/PabloEguilazPerez/icons/slack.svg"
     }
 ]
