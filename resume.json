@@ -1,9 +1,17 @@
 [
     {
         "id": 3,
+        "title": "Ingeniero en Informática",
+        "place": "Universidad de Oviedo",
+        "interval": "2024 - Actualidad",
+        "short_description": "Estudiando Ingeniería en Informática en la Universidad de Oviedo",
+        "languages": [3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 21, 25, 26]
+    },
+    {
+        "id": 3,
         "title": "Practicas en empresa",
         "place": "Empresa nº1",
-        "interval": "2024 - Actualidad",
+        "interval": "Marzo 2024 - Junio 2024",
         "short_description": "Desarrollo de API REST con Java, Node.js, Express, etc.",
         "languages": [3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 21, 25, 26]
     },
