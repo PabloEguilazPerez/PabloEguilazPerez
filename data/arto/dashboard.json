@@ -1,6 +1,6 @@
 {
     "balance": {
-        "total": 3000,
+        "total": 30002,
         "moneda": {
             "codigo": "EUR",
             "simbolo": "€",
@@ -70,7 +70,7 @@
                     "codigo": "EUR",
                     "simbolo": "€",
                     "nombre": "Euro",
-                    "bandera": "https://www.countryflags.io/eu/flat/64.png"
+                    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/255px-Flag_of_the_United_States.svg.png"
                 }
             }
         },
@@ -85,7 +85,7 @@
                     "codigo": "ETC",
                     "simbolo": "₿",
                     "nombre": "Ethereum",
-                    "bandera": "https://www.countryflags.io/et/flat/64.png"
+                    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/255px-Flag_of_the_United_States.svg.png"
                 }
             }
         }
