@@ -1,0 +1,39 @@
+{
+    "titulo": "Inglés",
+    "indice": [
+        {
+            "title": "I Fundamentals",
+            "id": "1-fundamentals",
+            "subindice": [
+                {
+                    "title": "Digital information",
+                    "id": "1-fundamentals-digital-information"
+                }
+            ]
+        }
+    ],
+    "contenido": [
+        {
+            "tipo": {
+                "nombre": "header",
+                "nivel": 1
+            },
+            "texto": "I Fundamentals",
+            "id": "1-fundamentals"
+        },
+        {
+            "tipo": {
+                "nombre": "header",
+                "nivel": 2
+            },
+            "texto": "Digital information",
+            "id": "1-fundamentals-digital-information"
+        },
+        {
+            "tipo": {
+                "nombre": "parrafo"
+            },
+            "texto": "Computers originated from mechanical calculators, which could carry out arithmetic operations faster and more reliably than humans. One of the first mechanical cal- culators was built by Blaise Pascal in the 17th century. These mechanical calcula- tors evolved, sometimes with little success, as happened with the one projected by Charles Babbage in the 19th century for computing navigation tables; others were the foundation of large multinational companies that are still working today. In time, calculators went from using mechanical elements to increasingly sophis- ticated electric and electronic devices. In the middle of the 20th century, thanks to the technology available at that time, the engineers that were designing calculators realized that many other things apart from simple arithmetic operations could be done: programmable machines could be built. This was the beginning of modern computers.\nNowadays, computers are omnipresent in all parts of society. Usually, the term computer is associated with a machine with a keyboard, a mouse and a monitor, which can execute many kinds of programs, such as word processors, web browsers or video players, among others. However, this term can also be applied to devices inside elements as varied as electrical appliances, machine tools, mobile phones, cars, etc.\nIn this chapter, after describing what a computer is and what tasks it can do, we will study the different formats used to represent information so that it can be handled by computers. Taking into account that computers are currently digital, we will study formats to represent digital information."
+        }
+    ]
+}
