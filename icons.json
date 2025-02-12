@@ -6,7 +6,7 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/figma.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/react_light.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/pnpm.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/matlab.svg"
@@ -18,10 +18,10 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/javascript.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/linux.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/cloudflare.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/js.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/linux.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/supabase.svg"
@@ -33,13 +33,7 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/java.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/.DS_Store"
-    },
-    {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/github.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/progresSQL.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/bash.svg"
@@ -51,13 +45,7 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/css_old.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/file-text.svg"
-    },
-    {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/angular.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/node_js.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/json.svg"
@@ -66,13 +54,10 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/obsidian.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/jb_IntelliJ_IDEA.svg"
-    },
-    {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/python.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/github-light.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/drizzle-orm.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/docker.svg"
@@ -84,28 +69,25 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/intellijidea.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/warp.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/nextjs_icon.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/notion.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/ts.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/markdown.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/visual-studio.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/markdown-light.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/turso-light.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/pycharm.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/nodejs.svg"
+    },
+    {
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/turso.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/html5.svg"
@@ -123,7 +105,7 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/sqlite.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/tailwildcss.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/brave.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/php.svg"
@@ -138,19 +120,16 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/c.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/vs_code.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/azure.svg"
+    },
+    {
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/windows.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/astro.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/html_5.svg"
-    },
-    {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/tailwindcss.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/css_3.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/postman.svg"
@@ -159,19 +138,10 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/react.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/jb_pycharm.svg"
-    },
-    {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/main.py"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/swift.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/globe.svg"
-    },
-    {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/slack.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/mysql.svg"
@@ -180,10 +150,10 @@
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/wordpress.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/nextjs_icon_dark.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/csharp.svg"
     },
     {
-        "icon": "https://cdn.pabloeguilaz.dev/images/icons/csharp.svg"
+        "icon": "https://cdn.pabloeguilaz.dev/images/icons/sublimetext.svg"
     },
     {
         "icon": "https://cdn.pabloeguilaz.dev/images/icons/apple.svg"
